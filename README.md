@@ -9,7 +9,7 @@ The age group 20-24 makes up a significant percentage of players (44.79%) and ac
 
 Final Critic, Oathbreaker, Last Hope of the Breaking Storm, and Fiery Glass Crusader rank among the top five in both most popular and most profitable items. The presence of these three items in the top five of both most popular and most profitable indicates that there is some correlation between popularity and profitability.
 
-![Fantasy](Images/Fantasy.png)
+![Fantasy](HeroesOfPymoli/Fantasy.png)
 
 ### Report Includes:
 
